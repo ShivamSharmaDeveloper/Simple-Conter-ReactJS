@@ -1,1 +1,1 @@
-# Simple-Conter-ReactJS
+# Simple-Counter-ReactJS
